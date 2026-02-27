@@ -1,0 +1,65 @@
+"No ciclo de vida da Engenharia de Dados, qual etapa trata da criação inicial dos dados por sistemas como APIs, logs e IoT?",Geração de Dados (Data Generation).
+"Qual é a recomendação de linguagem de programação principal para um Engenheiro de Dados em 2026, segundo o roadmap?",Python.
+"No Teorema CAP, o que representa a letra 'C'?",Consistência (Consistency).
+Qual técnica de modelagem de dados organiza as informações em tabelas de fatos e tabelas de dimensões?,Esquema Estrela (Star Schema).
+Qual é a principal diferença entre bancos de dados OLTP e OLAP?,"OLTP foca em transações rápidas em tempo real, enquanto OLAP foca em análises e consultas complexas."
+Como se chama o processo de mover dados de um sistema de origem para um destino (Data Ingestion) de forma contínua?,Ingestão em tempo real (Real-time Ingestion).
+Qual ferramenta é citada como um padrão para orquestração de pipelines de dados (Workflow Orchestration)?,Apache Airflow.
+"No contexto de armazenamento, o que caracteriza um 'Data Lake'?",Um repositório central que armazena grandes quantidades de dados brutos em seu formato nativo.
+Qual comando SQL é utilizado para remover registros duplicados de um conjunto de resultados?,SELECT DISTINCT.
+"Em Python, qual é a principal característica de uma 'Tupla' em comparação a uma 'Lista'?","As tuplas são imutáveis, enquanto as listas são mutáveis."
+Qual método especial em Python é usado para inicializar os atributos de uma nova instância de classe?,O método `\_\_init\_\_`.
+O que faz a biblioteca Pandas em um ambiente de desenvolvimento Python?,Oferece estruturas de dados e ferramentas de análise para manipulação de tabelas numéricas e séries temporais.
+Python é considerado uma linguagem de 'frontend' ou 'backend'?,Backend.
+Qual palavra-chave em Python é usada para criar uma função anônima e pequena?,lambda.
+"No gerenciamento de pacotes Python, qual ferramenta é o instalador padrão para bibliotecas do PyPI?",pip.
+O que define a Inteligência Artificial Estreita (ANI)?,"Modelos projetados para realizar uma única tarefa específica, como filtrar e-mails ou reconhecer faces."
+Qual é o estágio teórico da IA em que uma máquina teria capacidade de raciocinar e aprender em nível humano em qualquer domínio?,Inteligência Artificial Geral (AGI).
+Como funciona o aprendizado de máquina (Machine Learning) de tipo supervisionado?,"O algoritmo é treinado usando dados rotulados, onde cada entrada possui uma resposta correta conhecida."
+O que diferencia o Deep Learning (Aprendizado Profundo) do Machine Learning clássico?,O uso de redes neurais artificiais com múltiplas camadas (redes profundas).
+Qual componente central da IA Generativa permite que o modelo processe sequências de dados e identifique relações contextuais complexas?,Transformadores (Transformers).
+O que é 'IA Agêntica'?,"Sistemas de IA projetados para operar de forma autônoma, percebendo o ambiente, tomando decisões e agindo para atingir metas."
+"No processamento de linguagem natural (PLN), o que é a 'Tokenização'?","O processo de dividir um texto em unidades menores, chamadas tokens (como palavras ou subpalavras)."
+Qual técnica de IA generativa combina o modelo de base com fontes de dados externas para aumentar a precisão e atualidade das respostas?,Geração Aumentada de Recuperação (RAG).
+"No guia da IBM, o que significa 'Explicabilidade' na ética da IA?",A capacidade de humanos interpretarem e compreenderem como um algoritmo chegou a um determinado resultado.
+Qual é o perigo do 'viés de dados' (data bias) no treinamento de modelos de IA?,Pode levar a resultados discriminatórios ou imprecisos que perpetuam estereótipos humanos.
+"Em SQL, qual tipo de JOIN retorna apenas as linhas que possuem correspondência em ambas as tabelas?",INNER JOIN.
+Qual função agregada do SQL é usada para calcular a média de uma coluna numérica?,AVG().
+"Na arquitetura de Data Warehouse, qual é a função da camada 'OLAP' (segundo nível)?","Atuar como mediadora entre os usuários finais e o banco de dados, permitindo análises multidimensionais."
+O que é um 'Data Mart'?,Um subconjunto de um Data Warehouse focado em um assunto ou departamento específico da organização.
+"Em Python, como se chama o mecanismo que permite que uma classe herde atributos e métodos de outra?",Herança (Inheritance).
+Qual estrutura de controle em Python é usada para iterar sobre uma sequência (como uma lista ou string)?,O laço `for`.
+"O que é o 'Teste de Turing', proposto em 1950?",Um método para avaliar se uma máquina pode exibir comportamento inteligente indistinguível de um ser humano.
+"No desenvolvimento de prompts, qual elemento define 'quem está envolvido' e 'por que' a tarefa é necessária?",Contexto.
+Qual é a função do parâmetro `self` em métodos de classe Python?,Representar a instância específica do objeto que está chamando o método.
+Qual comando SQL é utilizado para adicionar uma nova coluna a uma tabela existente?,ALTER TABLE.
+"No Machine Learning, o que é 'Overfitting'?",Quando um modelo aprende tão bem os detalhes do treino que falha em generalizar para novos dados.
+Qual biblioteca Python é amplamente utilizada para visualização de dados estáticos e gráficos?,Matplotlib (ou Seaborn).
+O que caracteriza uma 'Máquina Reativa' na classificação de tipos de IA por funcionalidade?,"IA que apenas reage a estímulos atuais seguindo regras pré-programadas, sem memória de curto ou longo prazo."
+"Na computação em nuvem, o que é o 'S3' da AWS?",Um serviço de armazenamento de objetos (Storage).
+Qual é a função de um 'Reverse ETL'?,Mover dados processados de um Data Warehouse de volta para sistemas operacionais (como CRMs).
+"No roadmap de Python, o que é um 'Ambiente Virtual' (Virtualenv)?","Uma ferramenta para criar ambientes isolados para diferentes projetos, evitando conflitos de dependências."
+Qual algoritmo de Machine Learning é comumente usado para tarefas de classificação baseadas na proximidade de pontos vizinhos?,K-Nearest Neighbors (KNN).
+"Em SQL, qual cláusula é usada para filtrar grupos criados pela instrução GROUP BY?",HAVING.
+O que é o 'BigQuery' no Google Cloud?,Um data warehouse de análise totalmente gerenciado e sem servidor.
+Qual é a diferença entre 'SCD Tipo 1' e 'SCD Tipo 2' na engenharia de dados?,"O Tipo 1 sobrescreve os dados antigos, enquanto o Tipo 2 mantém o histórico criando novos registros."
+O que é um 'Large Language Model' (LLM) multimodal?,"Um modelo capaz de processar e gerar múltiplos tipos de dados, como texto, imagens e áudio simultaneamente."
+Qual é a principal função da arquitetura 'Snowflake' em modelagem de dados?,Normalizar as tabelas de dimensões para reduzir a redundância de dados.
+"Em Python, qual função builtin retorna o número de itens em um objeto (como uma lista ou string)?",len().
+"No contexto de IA, o que significa 'Reinforcement Learning' (Aprendizado por Reforço)?","Aprendizado baseado em tentativa e erro, onde o sistema recebe recompensas ou punições por suas ações."
+O que é 'Data Governance'?,"O conjunto de processos, políticas e padrões que garantem o uso eficaz e seguro dos dados em uma organização."
+Qual é a finalidade da biblioteca 'NumPy' em Python?,"Suporte para arrays e matrizes multidimensionais, além de funções matemáticas de alto nível."
+"No prompt engineering, o que é a 'Expectativa'?","A definição de como o modelo deve responder para melhor atender à solicitação (formato, tom, etc.)."
+O que é 'Data Lineage'?,O rastreamento da origem dos dados e das transformações pelas quais eles passaram ao longo do tempo.
+Qual operador SQL é usado para procurar um padrão específico em uma coluna?,LIKE.
+"Em Python, qual é a função do bloco `try...except`?",Tratamento de exceções e erros durante a execução do código.
+O que são 'Modelos de Base' (Foundation Models) na IA Generativa?,Modelos treinados em volumes massivos de dados que servem como ponto de partida para diversas aplicações específicas.
+Qual é o objetivo da normalização de dados em bancos de dados relacionais?,Reduzir a redundância e melhorar a integridade dos dados organizando tabelas e colunas.
+O que define a 'IA Forte' ou 'IA Geral'?,"A capacidade teórica de uma máquina compreender, aprender e aplicar conhecimento em qualquer tarefa no nível da inteligência humana."
+"Em SQL, qual comando é usado para alterar dados existentes em uma tabela?",UPDATE.
+"No ecossistema de Big Data, qual componente do Hadoop é responsável pelo armazenamento distribuído de arquivos?",HDFS (Hadoop Distributed File System).
+Qual é a função de um 'Decorator' em Python?,Uma função que envolve outra função para estender seu comportamento sem modificá-la permanentemente.
+O que é 'Tokenização' no contexto de segurança de dados?,O processo de substituir dados sensíveis por símbolos não sensíveis (tokens) que mantêm o formato mas não o valor original.
+Qual técnica de Deep Learning é especificamente eficaz para tarefas de visão computacional e reconhecimento de imagem?,Redes Neurais Convolucionais (CNNs).
+"Em SQL, qual instrução é usada para excluir uma tabela inteira e sua estrutura do banco de dados?",DROP TABLE.
+O que significa 'Idempotência' no contexto de Infraestrutura como Código (IaC)?,"A propriedade de uma operação que produz o mesmo resultado final, independentemente de quantas vezes seja executada."
